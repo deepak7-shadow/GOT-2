@@ -1,0 +1,87 @@
+- [x] Define highlighted house seats and location detail content.
+- [x] Generate an original parchment realm-map artwork asset.
+- [x] Implement selectable location markers, an active location panel, and keyboard-friendly controls.
+- [x] Validate desktop and mobile map presentation, then save a delivery checkpoint.
+- [x] Define the Baratheon and Tyrell chapter content and visual accent systems.
+- [x] Create original heraldic atlas plates for the stag and rose houses.
+- [x] Add both profile chapters, map links, and navigation coverage.
+- [x] Validate the expanded desktop and mobile atlas, then save a delivery checkpoint.
+- [x] Define the featured character records and their house links.
+- [x] Create original symbolic archive plates for the main characters.
+- [x] Add the main-character archive and navigation entry.
+- [x] Validate the expanded atlas on desktop and mobile, then save a delivery checkpoint.
+- [x] Restore visual portrait assets for the featured main characters.
+- [x] Update the character archive layout to foreground portrait photography-style artwork.
+- [x] Validate the portrait archive on desktop and mobile, then save a delivery checkpoint.
+- [x] Define character alliances, rivalries, and contextual relationship notes.
+- [x] Implement selectable character nodes, relationship links, and an active-connection detail panel.
+- [x] Validate the relationship diagram on desktop and mobile, then save a delivery checkpoint.
+- [x] Copy and publish the five uploaded character portraits as website assets.
+- [x] Replace the character archive and relationship-diagram image references.
+- [x] Validate the new portraits on desktop and mobile, then save a delivery checkpoint.
+- [x] Define the hero, conflict, and aftermath motion placements with reduced-motion fallbacks.
+- [x] Create the original flying-dragon video loop and defer additional clips until a new quota or user uploads.
+- [x] Add the available dragon motion background with accessible responsive overlays and static conflict/aftermath fallbacks.
+- [x] Validate desktop and mobile motion behavior, then save a delivery checkpoint.
+- [x] Define continuous ambient movement for every major atlas section.
+- [x] Extend the available live-video treatment beyond the hero and add site-wide motion layers.
+- [x] Validate the continuous motion system on desktop and mobile, then save a delivery checkpoint.
+- [x] Define the section-level transparency and contrast rules for visible full-page video.
+- [x] Reduce opaque section treatments so the cinematic video remains visible throughout the atlas.
+- [x] Validate full-page video visibility and content readability on desktop and mobile, then save a delivery checkpoint.
+- [x] Increase the background video brightness slightly while preserving content contrast.
+- [x] Validate the brighter presentation on desktop and mobile, then save a delivery checkpoint.
+- [x] Define the strongest composition, material, and brand refinements for the visual elevation pass.
+- [x] Enhance the hero, section transitions, brand seal moments, and foreground surfaces.
+- [x] Validate the upgraded presentation on desktop and mobile, then save a delivery checkpoint.
+- [x] Define timed intro copy, skip behavior, and reduced-motion handling.
+- [x] Add the cinematic intro overlay before the main atlas content.
+- [x] Validate intro playback, skipping, and responsive presentation, then save a delivery checkpoint.
+- [x] Define the second chapter-card content, timing, and replay behavior.
+- [x] Add the replay-intro footer control and chapter-card reveal to the overlay.
+- [x] Validate replay interaction and responsive sequence behavior, then save a delivery checkpoint.
+- [x] Define chapter-card destinations and direct-entry interaction behavior.
+- [x] Add selectable cards that dismiss the intro and scroll to the chosen atlas section.
+- [x] Validate chapter-card selection on desktop and mobile, then save a delivery checkpoint.
+- [x] Write and add concise atmospheric descriptions for the three intro chapter paths.
+- [x] Validate the enriched chapter cards on desktop and mobile, then save a delivery checkpoint.
+- [x] Define a quiet, non-repeating hover cue with user-gesture and reduced-motion safeguards.
+- [x] Add the hover and focus sound behavior to intro chapter cards.
+- [x] Validate sound trigger behavior and save a delivery checkpoint.
+- [x] Define persistent preference keys, volume behavior, and distinct chapter ambient palettes.
+- [x] Create and publish ambient tracks for the Houses, Realm, and Loyalties paths.
+- [x] Add local-storage preferences, a volume slider, and chapter-aware audio controls.
+- [x] Validate preference persistence, volume changes, and chapter audio behavior, then save a delivery checkpoint.
+- [x] Define reusable cinematic-intro skill contents and accessible sound behavior.
+- [x] Create and validate the reusable skill package.
+- [x] Add an intro mute control, looping ambient bed, and chapter selection-confirmation cue.
+- [x] Validate audio controls and intro responsiveness, then save a delivery checkpoint.
+- [x] Define post-entry house audio triggers, sound-reset behavior, and dossier illustration art direction.
+- [x] Create and publish five original house ambience tracks and five illustrated character dossier treatments.
+- [x] Implement house-aware ambience, footer sound-preference reset, and the illustrated dossier replacements.
+- [x] Validate the new audio and visual systems on desktop and mobile, then save a delivery checkpoint.
+- [x] Restore the five user-provided character photos in the archive and relationship chart.
+- [x] Validate the restored portrait presentation and save a corrected delivery checkpoint.
+- [x] Define character backstory and stat records plus house and alliance filter categories.
+- [x] Implement clickable character-detail modals, house-crest hover reveals, and archive filters.
+- [x] Validate modal accessibility and responsive archive filtering, then save a delivery checkpoint.
+- [x] Define timeline entries, shortlist capacity, persistence, and comparison fields for each character.
+- [x] Add event timelines to character dossiers and a persistent side-by-side shortlist comparison tool.
+- [x] Validate timeline and comparison flows on desktop and mobile, then save a delivery checkpoint.
+- [x] Define landmark event records, map locations, and their character timeline targets.
+- [x] Implement map event markers and direct navigation into the matching dossier timeline entries.
+- [x] Validate landmark-to-timeline navigation on desktop and mobile, then save a delivery checkpoint.
+- [x] Define chronological ordering and map-to-character links for the all-events ledger.
+- [x] Add a linked chronological event ledger beside the realm map.
+- [x] Validate ledger navigation and responsive layout, then save a delivery checkpoint.
+- [x] Define the focused timeline-only dossier view and its accessible mode switch.
+- [x] Implement event-only reading mode inside character dossiers.
+- [x] Validate full-profile and event-only views on desktop and mobile, then save a delivery checkpoint.
+- [x] Define era filter categories and previous/next event navigation behavior.
+- [x] Implement synchronized era filtering for map records and dossier timelines, plus event navigation controls.
+- [x] Validate synchronized historical navigation on desktop and mobile, then save a delivery checkpoint.
+- [x] Define the selected-era chronicle content and one-page download behavior.
+- [x] Implement a formatted one-page chronicle export from the realm-map era register.
+- [x] Validate exported content and responsive export controls, then save a delivery checkpoint.
+- [x] Remove campaign route overlays and route-specific audio while retaining landmark exploration features.
+- [x] Validate the restored clean realm map on desktop and mobile, then save a delivery checkpoint.
